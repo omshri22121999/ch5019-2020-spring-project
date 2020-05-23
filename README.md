@@ -5,5 +5,5 @@ Run the following commands to setup :
 - `pip install -r requirements.txt`
 - `bash setup.sh` (On Linux)
 
-The project codes can be run using Jupyter Notebook
+The project codes can be run using Jupyter Notebook. Use Python 3.6 or above.
 
